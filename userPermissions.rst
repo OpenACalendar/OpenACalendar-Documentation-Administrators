@@ -26,12 +26,12 @@ Adding or removing permissions to a group
 
 You can add and remove permissions to a group from the "Manage Permissions" tab.
 
-Some permissions automatically include other permisions. For instance, "CALENDAR_CHANGE" is a general permission that includes "EVENTS_CHANGE", "GROUPS_CHANGE" and more.
+Some permissions automatically include other permissions. For instance, "CALENDAR_CHANGE" is a general permission that includes "EVENTS_CHANGE", "GROUPS_CHANGE" and more.
 
 Permissions that can be assigned
 --------------------------------
 
-Note the permissions you have avaliable to you will depend on what exetensions you have installed.
+Note the permissions you have available to you will depend on what extensions you have installed.
 
 org.openacalendar - CALENDAR_ADMINISTRATE
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -100,7 +100,7 @@ org.openacalendar.curatedlists - CURATED_LISTS_CHANGE
 
 This gives permission to the users to edit Curated Lists on the calendar.
 
-This works differently from other permissions in that only users who created a Curated List and other they give permissions to ('curaters') can edit a particular curated list.
+This works differently from other permissions in that only users who created a Curated List and other they give permissions to ('curators') can edit a particular curated list.
 
 So to edit a specific curated list, all of these must be true:
 
@@ -119,7 +119,7 @@ What permissions does a particular user have?
 
 As permissions are given through groups, it can be difficult to see what permissions a particular user has sometimes.
 
-Go to "calendar admin" and "users" to see what permisions a user who falls into one of these groups will have:
+Go to "calendar admin" and "users" to see what permissions a user who falls into one of these groups will have:
 
 *  All Anonymous users
 *  All signed in users
